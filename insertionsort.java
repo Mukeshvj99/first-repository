@@ -9,7 +9,7 @@ package isspro;
  *
  * @author ELCOT
  */
-public class insertionsort {
+public class Insertionsort {
     public static void main(String[] args)
     {
         int[] arr={3,12,5,2,6,22,55,9,10};
